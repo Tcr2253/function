@@ -8,10 +8,10 @@ int main()
 	cin>>x2>>y2;
     k=(y1*1-1*y2)/(x1*1-1*x2);
     b=(y1*x2-x1*y2)/(1*x2-x1*1);
-	cout<<"TcrÒÑÎªÄã½âÎöÍê³É";
+	cout<<"Tcrå·²ä¸ºä½ è§£æå®Œæˆ";
 	cout<<endl; 
 	cout<<"k="<<k<<","<<"b="<<b;
 	cout<<endl;
-	cout<<"½âÎöÊ½Îª£ºy="<<k<<"x+"<<b;
+	cout<<"è§£æå¼ä¸ºï¼šy="<<k<<"x+"<<b;
 	return 0;
 }
